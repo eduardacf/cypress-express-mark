@@ -40,7 +40,7 @@
 |  2. npm run **db:init **|
 |  3. npm run **dev** |
 
-* Após clique no **primeiro** link de* http://* conforme imagem abaixo.
+* Após clique no **primeiro** link de *http://* conforme imagem abaixo.
 
 [![](https://raw.githubusercontent.com/eduardacf/cypress-express-mark/main/img/subindo-servidor.png)](https://raw.githubusercontent.com/eduardacf/cypress-express-mark/main/img/subindo-servidor.png)
 
