@@ -4,11 +4,10 @@
   
 [![](https://raw.githubusercontent.com/eduardacf/cypress-express-mark/main/img/thumbnail.png)](https://raw.githubusercontent.com/eduardacf/cypress-express-mark/main/img/thumbnail.png)
 
-[Criando um projeto node](#criando-um-projeto-node)
-[Instalando Cypress](#instalando-cypress)
-[Executando o Cypress via interface](#executando-o-cypress-via-interface)
-[Subindo API markL](#subindo-api-markl)
-
+- [Criando um projeto node](#criando-um-projeto-node)
+- [Instalando Cypress](#instalando-cypress)
+- [Executando o Cypress via interface](#executando-o-cypress-via-interface)
+- [Subindo API markL](#subindo-api-markl)
 
 
 #### Criando um projeto node
