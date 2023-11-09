@@ -42,7 +42,7 @@
 
 * Após clique no **primeiro** link de *http://* conforme imagem abaixo.
 
-<details><summary>[📸]</summary>
+<details><summary>📸</summary>
 
 [![](https://raw.githubusercontent.com/eduardacf/cypress-express-mark/main/img/subindo-servidor.png)](https://raw.githubusercontent.com/eduardacf/cypress-express-mark/main/img/subindo-servidor.png)
 
@@ -50,7 +50,7 @@
 
 * Irá abrir automaticamente o navegador, conforme abaixo:
 
-<details><summary>[📸]</summary>
+<details><summary>📸</summary>
 
 [![](https://raw.githubusercontent.com/eduardacf/cypress-express-mark/main/img/aplicacao.gif)](https://raw.githubusercontent.com/eduardacf/cypress-express-mark/main/img/aplicacao.gif)
 
