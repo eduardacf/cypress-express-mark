@@ -2,8 +2,6 @@
 
 - Testes automatizados desenvolvidos durante o curso **Cypress eXpress** da **QaXperience**.
 
-![image](https://github.com/eduardacf/cypress-express-mark/assets/48859707/a9f7c1d0-4d87-4518-9bb8-ad8d7e6e3650)
-
 #### Criando um projeto node
 * Acesse a pasta de desenvolvimento
 * Execute o comando abaixo:
