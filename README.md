@@ -1,8 +1,8 @@
 # cypress-express-mark
 
-- Testes automatizados desenvolvidos durante o curso **Cypress eXpress** da **QaXperience**.
-
 [![](https://raw.githubusercontent.com/eduardacf/cypress-express-mark/main/img/thumbnail.png)](https://raw.githubusercontent.com/eduardacf/cypress-express-mark/main/img/thumbnail.png)
+
+- Testes automatizados desenvolvidos durante o curso **Cypress eXpress** da **QaXperience**.
 
 #### Criando um projeto node
 * Acesse a pasta de desenvolvimento
