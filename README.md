@@ -37,7 +37,7 @@
 |  Comandos com npm |
 | ------------ |
 |  1. npm **install** |
-|  2. npm run **db:init **|
+|  2. npm run **db:init**|
 |  3. npm run **dev** |
 
 * Após clique no **primeiro** link de *http://* conforme imagem abaixo.
