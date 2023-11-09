@@ -26,7 +26,7 @@
 #### Subindo API markL
 
 * Acesse a pasta **/apps**
-* Execute os respectivos comandos abaixo primeiro na pasta **/api **depois na pasta **/web**
+* Execute os respectivos comandos abaixo primeiro na pasta **/api** depois na pasta **/web**
 
 |  Comandos com yarn |
 | ------------ |
