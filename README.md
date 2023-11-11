@@ -62,3 +62,8 @@
 [![](https://raw.githubusercontent.com/eduardacf/cypress-express-mark/main/img/aplicacao.gif)](https://raw.githubusercontent.com/eduardacf/cypress-express-mark/main/img/aplicacao.gif)
 
 </details>
+
+## Allure
+yarn cypress run --env allure=true
+yarn allure serve
+
