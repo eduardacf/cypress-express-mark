@@ -64,6 +64,6 @@
 </details>
 
 ## Allure
-yarn cypress run --env allure=true
-yarn allure serve
+- yarn cypress run --env allure=true
+- yarn allure serve
 
